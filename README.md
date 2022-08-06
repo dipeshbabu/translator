@@ -1,6 +1,6 @@
 # The Master Betters Translator
 
-It is a language translator, which translates one language to another language. It was developed by the team The Master Betters to defend the KU HackFest 2022 competitors. It used the facebook's no language left behind pre-trained model and fine-tuned with the custom datasets by the master betters. The translator supports 200 languages. App is live [here](https://huggingface.co/spaces/themasterbetters/the-master-betters-translator).
+It is a language translator, which translates one language to another language. It was developed by the team The Master Betters to defend the KU HackFest 2022 competitors. It used the facebook's no language left behind pre-trained model and fine-tuned with the custom datasets by the master betters. The translator supports 200 different languages. App is live [here](https://huggingface.co/spaces/themasterbetters/the-master-betters-translator).
 
 ## Datasets
 
